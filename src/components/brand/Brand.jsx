@@ -4,15 +4,15 @@ import {google,slack,atlassian,shopify,dropbox} from "./imports.js"
 
 const Brand = () => {
   return (
-    <div className="gpt3__brands section_padding">
-      <div>
-        <img src={google} alt="google" />
-      </div>
+    <div className="gpt3__brands">
       <div>
         <img src={slack} alt="slack" />
       </div>
       <div>
         <img src={atlassian} alt="atlassian" />
+      </div>
+      <div>
+        <img src={google} alt="google" />
       </div>
       <div>
         <img src={shopify} alt="shopify" />

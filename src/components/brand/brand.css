@@ -1,0 +1,42 @@
+.gpt3__brands {
+    display: flex;
+    flex: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0;
+}
+
+.gpt3__brands div {
+    flex: 1;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    max-width: 150px;
+    margin: 1rem;
+}
+
+@media screen and (min-width:570px) and (max-width:720px){
+    .gpt3__brands div img{
+        height: 20px;
+    }
+}
+
+@media screen and (min-width:480px) and (max-width:569px){
+
+    .gpt3__brands{
+        padding: 0 5rem;
+    }
+    .gpt3__brands div img{
+        height: 15px;
+    }
+}
+
+@media screen and (max-width:479px){
+
+    .gpt3__brands div{
+        margin: 0.5rem;
+    }
+    .gpt3__brands div img{
+        height: 12px;
+    }
+}
