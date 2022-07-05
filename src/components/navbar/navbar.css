@@ -59,6 +59,13 @@
     outline: none;
 }
 
+.gpt3__navbar-wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
 .gpt3__navbar-menu{
     margin-left: 1rem;
     display: none;
