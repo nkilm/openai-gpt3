@@ -6,9 +6,9 @@ const Footer = () => {
   return (
     <div className="gpt3__footer section__padding">
       <div className="gpt3__footer-heading">
-        <h3 className="gradient__text">
+        <h1 className="gradient__text">
           Do you want to step in to the future before others?
-        </h3>
+        </h1>
       </div>
       <div className="gpt3__footer-button">
         <p>Request Early Access</p>
@@ -19,20 +19,20 @@ const Footer = () => {
           <p>Crechterwoord K12 182 DK Alknjkcb, All Rights Reserved</p>
         </div>
         <div className="gpt3__footer-links_div">
-          <h3>Links</h3>
+          <h4>Links</h4>
           <p>Overons</p>
           <p>Social Media</p>
           <p>Counters</p>
           <p>Contact</p>
         </div>
         <div className="gpt3__footer-links_div">
-          <h3>Company</h3>
+          <h4>Company</h4>
           <p>Terms & Conditions</p>
           <p>Privacy Policy</p>
           <p>Contact</p>
         </div>
         <div className="gpt3__footer-links_div">
-          <h3>Get in touch</h3>
+          <h4>Get in touch</h4>
           <p>Crechterwoord K12 182 DK Alknjkcb</p>
           <p>085-132567</p>
           <p>info@payme.net</p>
