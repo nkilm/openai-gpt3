@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/openai-gpt3/static/css/main.fdf719e3.css",
+    "main.css": "/openai-gpt3/static/css/main.7a5b4a91.css",
     "main.js": "/openai-gpt3/static/js/main.d79a3049.js",
     "static/media/ai.png": "/openai-gpt3/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/openai-gpt3/static/media/possibility.525f13b61a2157d44de0.png",
@@ -12,11 +12,11 @@
     "static/media/people.png": "/openai-gpt3/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/openai-gpt3/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
     "index.html": "/openai-gpt3/index.html",
-    "main.fdf719e3.css.map": "/openai-gpt3/static/css/main.fdf719e3.css.map",
+    "main.7a5b4a91.css.map": "/openai-gpt3/static/css/main.7a5b4a91.css.map",
     "main.d79a3049.js.map": "/openai-gpt3/static/js/main.d79a3049.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdf719e3.css",
+    "static/css/main.7a5b4a91.css",
     "static/js/main.d79a3049.js"
   ]
 }
