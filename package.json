@@ -7,7 +7,13 @@
   },
   "description": "Clone of GPT3 Website using Reactjs",
   "version": "0.1.0",
-  "keywords": ["reactjs","modern ui/ux","gpt3","openai"],
+  "keywords": [
+    "reactjs",
+    "modern ui/ux",
+    "gpt3",
+    "openai"
+  ],
+  "homepage": "https://nkilm.github.io/openai-gpt3",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
@@ -20,6 +26,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -42,5 +50,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
