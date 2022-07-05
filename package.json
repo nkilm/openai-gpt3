@@ -1,7 +1,14 @@
 {
-  "name": "gpt3-website-clone",
+  "name": "openai-gpt3",
+  "author": "Nikhil Mohite",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nkilm/openai-gpt3"
+  },
+  "description": "Clone of GPT3 Website using Reactjs",
   "version": "0.1.0",
-  "private": true,
+  "keywords": ["reactjs","modern ui/ux","gpt3","openai"],
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
