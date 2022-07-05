@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/openai-gpt3/static/css/main.fdf719e3.css",
+    "main.js": "/openai-gpt3/static/js/main.d79a3049.js",
+    "static/media/ai.png": "/openai-gpt3/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/openai-gpt3/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/openai-gpt3/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/openai-gpt3/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/openai-gpt3/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/openai-gpt3/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/openai-gpt3/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/openai-gpt3/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/openai-gpt3/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
+    "index.html": "/openai-gpt3/index.html",
+    "main.fdf719e3.css.map": "/openai-gpt3/static/css/main.fdf719e3.css.map",
+    "main.d79a3049.js.map": "/openai-gpt3/static/js/main.d79a3049.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdf719e3.css",
+    "static/js/main.d79a3049.js"
+  ]
+}
