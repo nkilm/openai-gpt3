@@ -1,0 +1,12 @@
+# Dockerfiles
+Dockerfile
+.dockerignore
+
+# ignore node_modules to keep image size low
+node_modules
+
+*.md
+.git
+
+# build
+build
